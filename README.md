@@ -1,6 +1,9 @@
 
 Fluxômetro  com arduino e display Nokia 5110
 
+Preciso desenvolver a programação  via arduino para a utilização de 2 fluxometros,cada um com leitura individual. Com botão de início de leitura e parada de leitura.(Ambos iniciam e param juntos)...Informações de litros/s e litros/m exibidas no LCD Nokia azul 5110.
+
+Solução
 
 O código foi projeto tendo em vista os seguintes componentes:
 
